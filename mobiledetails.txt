@@ -1,0 +1,3 @@
+Name : realme7
+Version : 3.4
+Ram : 64gb
