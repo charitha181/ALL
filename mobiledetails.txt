@@ -3,3 +3,5 @@ Version : 3.4
 Ram : 64gb
 cam : 64px
 cost : 20000
+
+Version : 4.0
