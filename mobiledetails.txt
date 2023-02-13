@@ -1,5 +1,10 @@
 Name : realme7
 Version : 3.4
 Ram : 64gb
+
 cam : 64px
 cost : 20000
+
+version : 4.0
+  
+version : 12.0
