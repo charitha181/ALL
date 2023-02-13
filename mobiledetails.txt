@@ -5,3 +5,6 @@ cam : 64px
 cost : 20000
 
 version : 6.0
+version : 5.0
+
+vesrion : 9.0
